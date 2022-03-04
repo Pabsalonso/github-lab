@@ -1,3 +1,3 @@
 # github-lab
-##Descripción
+## Descripción
 Repositorio de ejemplo del cursillo de git ofrecido por la eii.
