@@ -1,1 +1,1 @@
-print("Mr. Worldwide!")
+print("Guten Morgen!")
